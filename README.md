@@ -210,12 +210,4 @@ If you like or are using this project to learn or start your solution, please gi
 
     - [React 360](https://facebook.github.io/react-360/)
 
-## Contribution
 
-If you want to contribute to this project to make it more helpful for other React developers, your help is very welcome!
-
-Just file an issue, better yet: submit a PR! 🙂
-
-## License
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
